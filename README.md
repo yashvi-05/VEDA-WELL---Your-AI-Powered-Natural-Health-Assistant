@@ -28,7 +28,7 @@ Setup Instructions:
 
     Clone the Repository: Clone this repository to your local machine:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/yashvi-05/VEDA-WELL---Your-AI-Powered-Natural-Health-Assistant.git
 
 Install the Required Libraries: Install the necessary dependencies by running:
 
